@@ -1,3 +1,3 @@
-# Flutter to XD Test
+# XD to Flutter Test
 
-Test to see if XD can be used for production.
+Check to see if XD can be used for production.
